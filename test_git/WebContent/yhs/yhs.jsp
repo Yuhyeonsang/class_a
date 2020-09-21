@@ -50,7 +50,7 @@
 		</div>
 	</div>
 	<div id="container">
-		맛난 점심을 드세요
+		맛난 점심을 드세요.
 	</div>
 	<div id="footer">
 		<div id="footerLogo"> </div>
